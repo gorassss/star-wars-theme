@@ -1,0 +1,1 @@
+{ "name": "star-wars-theme-marketplace", "owner": { "name": "star-wars-theme" }, "plugins": [{ "name": "star-wars-theme", "source": "./" }] }
